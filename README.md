@@ -67,9 +67,7 @@ The level should be designed so that: the player can fall outside the island int
 Enemy characters will respawn, the main Boss is the Ender Dragon.
 
 ***Balance***
-Name 
-Value  
-Player speed
+Name | Value |Player speed
 100
 Player speed while squatting
 50
@@ -83,13 +81,17 @@ Player vision range
 customizable
 NPC vision range
 30
+
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
  
 ***Artificial Intelligence***
 NPC can:
-Attack
-Run away after attack
-Ignore the player
-Follow the player
+- Attack
+- Run away after attack
+- Ignore the player
+- Follow the player
 
 ***History***
 Development of the full version of Minecraft (Java Edition) began on November 18, 2011 and continues to this day. At this stage of development, the game is considered "finished", has a "ending" and is ready for review and evaluation. 
