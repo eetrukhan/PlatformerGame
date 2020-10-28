@@ -53,7 +53,7 @@ The level should be designed so that: the player can move around the entire surf
 When the player dies, he will spawn at the first point from where he started his journey or near the bed.
 
 
-***Balance***
+***Balance:***
 
 Name | Value |
 ---|---|
