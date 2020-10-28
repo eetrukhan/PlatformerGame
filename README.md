@@ -45,7 +45,7 @@ Specific actions
   
 # Interface 
 
-***Gameplay map***
+Gameplay map
 File attached
 
 ***Visual***
