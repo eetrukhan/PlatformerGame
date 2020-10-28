@@ -53,38 +53,17 @@ When the player dies, he will spawn at the first point from where he started his
 
 
 ***Balance***
-Name | Value |Player speed
-100
-Player speed while squatting
-50
-Player speed in acceleration
-150
-NPC speed at rest
-100
-NPC speed in alarm
-150
-Player vision range
-customizable
-NPC vision range
-30
 
-Name | Value | 
---- | --- | 
-Player Speed | 301 | 
---- | --- | 
-Player Speed Increase | 301 | 
---- | --- | 
-Enemy Speed | 289 |
---- | --- |
-Enemy Speed Increase | 272 | 
- --- | ---|
- 
-***Artificial Intelligence***
-NPC can:
-- Attack
-- Run away after attack
-- Ignore the player
-- Follow the player
+Name | Value |
+---|---|
+Player Speed | 300 | 
+Player Speed Increase | 50 | 
+Enemy Speed | 10 |
+Enemy Speed Increase | 10 | 
+Freeze booster time | 10 sec |
+Invisibility booster time | 10 sec |
+
+
 
 ***History***
 Development of the full version of Minecraft (Java Edition) began on November 18, 2011 and continues to this day. At this stage of development, the game is considered "finished", has a "ending" and is ready for review and evaluation. 
